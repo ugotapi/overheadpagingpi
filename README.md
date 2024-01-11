@@ -1,4 +1,4 @@
-# overheadpagingpi
+# OverheadPagingPi
 
 Build a extremely simple web page in a Pi device. There will be four buttons that can be touched and send an audio play request to the speakers setup on the Pi device. 
 
