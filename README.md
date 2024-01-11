@@ -30,10 +30,12 @@ Example web page on tablet:
 4. The Food Delivery, Employee Needs access, Visitor Needs Access buttons in index.html need to be edited by you.
 5. You should add three more php files corresponding to the three other buttons and audio files. 
 6. Additionally you would upload fiver wav files corresponding to the four other buttons and the audio played on the tablet.
-7. These files goe in the /var/www/html folder. Run "sudo chown www-data:www-data /var/www/html/yourawesomenewfilename" on new files added like in the install script. 
-8. The /var/www/html/index.hteml is the file to edit to add your logo, change colors, change buttons, change sounds played.
+7. These files go in the /var/www/html folder. Run "sudo chown www-data:www-data /var/www/html/yourawesomenewfilename" on new files added like in the install script. 
+8. The /var/www/html/index.html is the file to edit to add your logo, change colors, change buttons, change sounds played.
 
-   Install by pasting the contents of the install.sh file to a terminal and hit Enter. 
+  
+
+Install by pasting the contents of the install.sh file to a terminal and hit Enter. 
 
 
    
