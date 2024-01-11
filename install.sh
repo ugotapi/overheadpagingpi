@@ -5,6 +5,8 @@ cd /var/www/html
 wget https://raw.githubusercontent.com/ugotapi/overheadpagingpi/main/index.html
 wget http://www.galaxyfaraway.com/Sounds/SEEKYODA.WAV
 sudo mv /var/www/html/SEEKYODA.WAV /var/www/html/seekyoda.wav
+wget https://raw.githubusercontent.com/ugotapi/overheadpagingpi/main/play1.php
+chown www-data:www-data /var/www/html/play1.php
 chown www-data:www-data /var/www/html/index.html
 chown www-data:www-data /var/www/html/seekyoda.wav
 
