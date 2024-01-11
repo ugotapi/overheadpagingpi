@@ -2,7 +2,7 @@ sudo apt install apache2 php sox libsox-fmt-mp3
 sudo usermod -aG audio www-data
 sudo rm -rf /var/www/html/index.html
 cd /home/$USER
-wget https://github.com/ugotapi/overheadpagingpi/blob/main/yourlogo.png?raw=true
+wget https://github.com/ugotapi/overheadpagingpi/blob/main/yourlogo.png
 wget https://raw.githubusercontent.com/ugotapi/overheadpagingpi/main/index.html
 wget http://www.galaxyfaraway.com/Sounds/SEEKYODA.WAV
 wget https://raw.githubusercontent.com/ugotapi/overheadpagingpi/main/play1.php
