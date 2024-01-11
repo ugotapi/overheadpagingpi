@@ -1,4 +1,4 @@
-sudo apt install -y apache2 php sox libsox-fmt-mp3
+sudo apt install -y apache2 php mplayer
 sudo usermod -aG audio www-data
 sudo rm -rf /var/www/html/index.html
 cd /home/$USER
