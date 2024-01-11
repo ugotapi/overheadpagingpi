@@ -19,7 +19,7 @@ sudo chown www-data:www-data /var/www/html/index.html
 sudo chown www-data:www-data /var/www/html/alwaystwo.mp3
 
 ip a
-read -p "After this reboot go to your tablet/touch pc and put in the ip address of this device.  Hit Enter key to continue"
+read -p "After this reboot go to your tablet/touch pc and put in the ip address of this device - shown above.  Hit Enter key to continue."
 sudo reboot
 
 
