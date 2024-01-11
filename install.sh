@@ -15,7 +15,6 @@ sudo chown www-data:www-data /var/www/html/play1.php
 sudo chown www-data:www-data /var/www/html/index.html
 sudo chown www-data:www-data /var/www/html/seekyoda.wav
 
-
 # Create a backup of the original config.txt file
 sudo cp /boot/config.txt /boot/config.txt.backup
 
