@@ -27,8 +27,9 @@ Example web page on tablet:
 1. The first button should play a sound on the speaker attached to the Pi5. 
 2. The Food Delivery, Employee Needs access, Visitor Needs Access need to be edited by you.
 3. You should add three more php files corresponding to the three other buttons.
-4. Additionally you would upload four wav files corresponding to the four other buttons. Also the mp3 file played to the vistor on the tablet. 
-5. The /var/www/html/index.hteml is the file to edit to add your logo, change colors, change buttons, change sounds played. 
+4. Additionally you would upload four wav files corresponding to the four other buttons. Also the mp3 file played to the vistor on the tablet.
+5. These files goe in the /var/www/html folder. chown
+6. The /var/www/html/index.hteml is the file to edit to add your logo, change colors, change buttons, change sounds played. 
 
 
    
