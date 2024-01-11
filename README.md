@@ -36,9 +36,10 @@ Example web page on tablet:
 
     ![image](https://github.com/ugotapi/overheadpagingpi/assets/14945441/8f0e44a5-f386-479e-ae4b-e7759f3d919c)
 
-   This should match the two here:
+   This should match the 2 here:
 
-   
+   ![image](https://github.com/ugotapi/overheadpagingpi/assets/14945441/7e672b41-8303-431a-9e77-a98406c02eb3)
+
 
 
   
