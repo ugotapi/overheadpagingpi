@@ -15,10 +15,10 @@ HOW IT WORKS:
 ![pis](https://github.com/ugotapi/overheadpagingpi/assets/14945441/099944ce-097d-4dd9-b0f6-489bae12e737)
 
 
-web page on tablet
+Example web page on tablet:
 
+   ![screen](https://github.com/ugotapi/overheadpagingpi/assets/14945441/cb2b8f8b-0c1b-4678-8a38-076fe587217f)
 
-   
 
 
 
