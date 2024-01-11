@@ -21,4 +21,14 @@ Example web page on tablet:
 
 
 
+1. The first button should play a sound.
+2. The Food Delivery, Employee Needs access, Visitor Needs Access need to be edited by you.
+3. You should add three more php files corresponding to the three other buttons.
+4. Additionally you would upload three wav files corresponding to the three other buttons. 
+5. The /var/www/html/index.hteml is the file to edit to add your logo, change colors, change buttons
+
+
+   
+
+
 
