@@ -25,7 +25,7 @@ Example web page on tablet:
 
 
 1. This install is assuming that you have Raspbian installed newly on a Pi5 device.
-2. It is best to setup a fixed IP address for the pi via DHCP reservation or hardcoding it in the networking area. 
+2. It is best to setup a fixed IP address for the Pi via DHCP reservation or hardcoding it in the networking area. 
 3. The first button should play a sound on the speaker attached to the Pi5. 
 4. The Food Delivery, Employee Needs access, Visitor Needs Access need to be edited by you.
 5. You should add three more php files corresponding to the three other buttons.
