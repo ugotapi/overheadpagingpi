@@ -32,6 +32,14 @@ Example web page on tablet:
 6. Additionally you would upload fiver wav files corresponding to the four other buttons and the audio played on the tablet.
 7. These files go in the /var/www/html folder. Run "sudo chown www-data:www-data /var/www/html/yourawesomenewfilename" on new files added like in the install script. 
 8. The /var/www/html/index.html is the file to edit to add your logo, change colors, change buttons, change sounds played.
+9. If you have sound playing problems make sure your usb sound card is in #2 by typing: aplay -l
+
+    ![image](https://github.com/ugotapi/overheadpagingpi/assets/14945441/8f0e44a5-f386-479e-ae4b-e7759f3d919c)
+
+   This should match the two here:
+
+   
+
 
   
 
