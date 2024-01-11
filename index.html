@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+function playAudio(url) {
+  new Audio(url).play();
+}
+</script>
+
+<style>
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+table {
+        width: 100%;
+    }
+
+    .width-50 td {
+        width: 50%;
+    }
+
+    .buttons {
+font-family: Arial, Geneva, Helvetica, sans-serif;        
+text-align: center;
+        font-size: 2.0em;
+        font-weight: bold;
+        line-height: 200%;
+    }
+    .buttons a {
+        display: inline-block;
+        height: 100%;
+        width: 100%;
+        margin-bottom: 0.2em;
+        padding-top: .3em;
+        padding-bottom: .3em;
+        color: #fff;
+        background-color: rgb(0, 0, 0);
+        border-radius: 5px;
+        border: solid #cccccc 1px;
+        box-shadow: 4px 4px 2px #888888;
+    }
+    .buttons a:active {
+        color: #fff;
+        background-color: #a6162f;
+    }
+
+    </style>
+  </head>
+  <body>
+
+<img src="wrbnd.png" alt="Logo" class="center">
+<br>
+<table class="buttons width-50">
+<tbody>
+<tr>
+<td> <a href="/truckdelreceiving.php" onclick="playAudio('page.mp3')">Truck Driver Delivery</a>   </td>
+<td><a href="/packagedelreceiving.php" onclick="playAudio('page.mp3')">AMZ/DHL/Fedex/UPS/USPS</a></td>
+</tr>
+<tr>
+<td><a href="/employeereceiving.php" onclick="playAudio('page.mp3')">Employee/Temp Needs Access</a></td></td>
+<td><a href="/vreceiving.php" onclick="playAudio('page.mp3')">Vendor Needs Access</a></td></td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
