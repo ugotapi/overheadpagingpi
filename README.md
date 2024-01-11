@@ -8,7 +8,7 @@ You will also need a tablet/ipad locked down to a web browser to display the Pi 
 HOW IT WORKS:
 1. Someone comes in your building front area and sees the wall mounted tablet at hits the correct button.
 2. It plays the sound on the overhead speakers alerting someone inside.
-3. It also plays a sound on the tablet that an alert has been set.
+3. It also plays an mp3 sound on the tablet that an alert has been set to the person tapping the tablet. 
 
 
 
@@ -17,15 +17,15 @@ HOW IT WORKS:
 
 Example web page on tablet:
 
-   ![screen](https://github.com/ugotapi/overheadpagingpi/assets/14945441/cb2b8f8b-0c1b-4678-8a38-076fe587217f)
+ ![screen](https://github.com/ugotapi/overheadpagingpi/assets/14945441/cb2b8f8b-0c1b-4678-8a38-076fe587217f)
 
 
 
-1. The first button should play a sound.
+1. The first button should play a sound on the speaker attached to the Pi5. 
 2. The Food Delivery, Employee Needs access, Visitor Needs Access need to be edited by you.
 3. You should add three more php files corresponding to the three other buttons.
-4. Additionally you would upload three wav files corresponding to the three other buttons. 
-5. The /var/www/html/index.hteml is the file to edit to add your logo, change colors, change buttons
+4. Additionally you would upload four wav files corresponding to the four other buttons. Also the mp3 file played to the vistor on the tablet. 
+5. The /var/www/html/index.hteml is the file to edit to add your logo, change colors, change buttons, change sounds
 
 
    
