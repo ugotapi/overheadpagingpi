@@ -34,7 +34,8 @@ Example web page on tablet:
 8. The /var/www/html/index.html is the file to edit to add your logo, change colors, change buttons, change sounds played.
 9. If you have sound playing problems make sure your usb sound card is card 2 by typing: aplay -l
 
-    ![image](https://github.com/ugotapi/overheadpagingpi/assets/14945441/8f0e44a5-f386-479e-ae4b-e7759f3d919c)
+  ![image](https://github.com/ugotapi/overheadpagingpi/assets/14945441/4b268538-7cf9-4df8-88a4-6382abdedda5)
+
 
    This should match the 2 here:
 
