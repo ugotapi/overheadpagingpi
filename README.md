@@ -16,7 +16,7 @@ HOW IT WORKS:
 
 
 
--
+
 
 Example web page on tablet:
 
