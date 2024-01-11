@@ -31,7 +31,9 @@ Example web page on tablet:
 5. You should add three more php files corresponding to the three other buttons.
 6. Additionally you would upload four wav files corresponding to the four other buttons. Also the mp3 file played to the vistor on the tablet.
 7. These files goe in the /var/www/html folder. Run "sudo chown www-data:www-data /var/www/html/yourawesomenewfilename" on new files added like in the install script. 
-8. The /var/www/html/index.hteml is the file to edit to add your logo, change colors, change buttons, change sounds played. 
+8. The /var/www/html/index.hteml is the file to edit to add your logo, change colors, change buttons, change sounds played.
+
+   Install by pasting the contents of the install.sh file to a terminal and hit Enter. 
 
 
    
