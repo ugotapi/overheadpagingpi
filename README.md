@@ -6,7 +6,7 @@ You will need Wifi network, a pi 5 device and a separate USB sound card and a sp
 You will also need a tablet/ipad locked down to a web browser to display the Pi ip address for example: http://192.168.1.100. For Android tablet on the wall I have used Fully Kiosk Browser & Lockdown which is low priced and works well. No affilaition. 
 
 HOW IT WORKS:
-1. Someone comes in your building front area and sees the tablet at hits the correct button.
+1. Someone comes in your building front area and sees the wall mounted tablet at hits the correct button.
 2. It plays the sound on the overhead speakers alerting someone inside.
 3. It also plays a sound on the tablet that an alert has been set.
 
