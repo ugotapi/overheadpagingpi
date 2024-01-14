@@ -1,6 +1,6 @@
 # OverheadPagingPi
 
-Build a extremely simple web page in a Pi device. There will be four buttons that can be touched and send an audio play request to the speakers setup on the Pi device. 
+Build a extremely simple web page in a Pi device. There will be four buttons that can be touched and send an audio play request to the speakers setup on the Pi device. This will create a Overhead paging device or a maybe a remote soundboard. 
 
 You will need Wifi network, a Raspbian Pi5 device and a separate USB sound card and a speaker at least. Hard code the IP address on the Pi via DHCP reservation or during the install of the Pi set the fixced IP address. You connect the sound card to your overhead speaker system or at least a speaker. 
 You will also need a tablet/ipad locked down to a web browser to display the Pi ip address for example: http://192.168.1.100. 
