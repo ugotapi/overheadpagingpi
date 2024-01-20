@@ -1,4 +1,7 @@
+sudo apt update
+sudo apt upgrade
 sudo apt install -y apache2 php mplayer
+
 # This adds apache user to audio group in order give permissions to play sounds locally on the Pi
 sudo usermod -aG audio www-data
 # remove default apache web page
