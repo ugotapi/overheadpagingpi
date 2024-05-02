@@ -29,7 +29,7 @@ Example web page on tablet:
 2. It is best to setup a fixed IP address for the Pi via DHCP reservation or hardcoding it in the networking area. 
 3. The first button should play a sound on the speaker attached to the Pi5. 
 4. The Food Delivery, Employee Needs access, Visitor Needs Access buttons in index.html need to be edited by you to point to valid php files that will play audio files. Button one is a working example. 
-5. You should add three more php files corresponding to the three other buttons and audio files. 
+5. You should add three more php files corresponding to the three other buttons and audio files. Editing the button text and the php to play the right mp3 files. 
 6. Additionally you would upload wav files corresponding to the four other buttons and the audio played on the tablet.
 7. These files go in the /var/www/html folder. Run "sudo chown www-data:www-data /var/www/html/yourawesomenewfilename" in a Terminal on new files added like in the install script. 
 8. The /var/www/html/index.html is the file to edit to add your logo, change colors, change buttons, change sounds played.
