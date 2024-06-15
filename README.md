@@ -2,7 +2,7 @@
 
 Build a extremely simple web page in a Pi device for a work/office building overhead paging system. There will be four buttons that can be touched and send an audio play request to the speakers setup on the Pi device. This will create an overhead paging device or a maybe a remote soundboard. 
 
-You will need Wifi network, a Raspbian Pi5 device and a separate USB sound card and a speaker at least. You could test a different Pi device there should be no hardware requriments for a pi5 but i have not tested it. Hard code the IP address on the Pi via DHCP reservation or during the install of the Pi set the fixced IP address. You connect the sound card to your overhead speaker system or at least a speaker. You will also need a tablet/ipad locked down to a web browser to display the Pi web page for your building visitor to tap. 
+You will need Wifi network, a Raspbian Pi5 device and a separate USB sound card and a speaker at least. You could test a different Pi device there should be no hardware requriments for a pi5 but I have not tested it. Hard code the IP address on the Pi via DHCP reservation or during the install of the Pi set the fixced IP address. You connect the USB sound card output to your overhead speaker system or at least a speaker. You will also need a tablet/ipad locked down to a web browser to display the Pi web page for your building visitor to tap. 
 
 For Android tablet on the wall, I have used Fully Kiosk Browser & Lockdown which is low priced and works well. No affiliation. You can buy a usb sound card with an audio out for $15 on Amazon. 
 
@@ -25,7 +25,7 @@ Example web page on tablet:
 
 
 
-1. This install is assuming that you have Raspbian installed newly on a Pi5 device.
+1. This install is assuming that you have Raspberry PI OS installed newly on a Pi5 device.
 2. It is best to setup a fixed IP address for the Pi via DHCP reservation or hardcoding it in the networking area. 
 3. The first button should play a sound on the speaker attached to the Pi5. 
 4. The Food Delivery, Employee Needs access, Visitor Needs Access buttons in index.html need to be edited by you to point to valid php files that will play audio files. Button one is a working example. 
